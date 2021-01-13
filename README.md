@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on my portfolio projects
 - 🌱 I’m currently learning TypeScript
 - 📫 Find more about me from [lakshanperera.com](https://www.lakshanperera.com)
-- 🏹 2021 Goals: Contribute more to Open Source projects
+- 🏹 2021 Goals: Build Some Cool Stuff
 - 😄 Pronouns: he/him
 
 ### Tech Stack
