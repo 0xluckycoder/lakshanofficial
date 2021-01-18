@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning TypeScript
 - 📫 Find more about me from [lakshanperera.com](https://www.lakshanperera.com)
 - 🏹 2021 Goals: Build Some Cool Stuff
-- 😄 Pronouns: he/him
 
 ### Tech Stack
 
