@@ -2,7 +2,7 @@
 
 - 👨‍💻 Passionate Programmer
 - 🔭 I’m currently working on my portfolio projects
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning TypeScript & Redux
 - 📫 Find more about me from [lakshanperera.com](https://www.lakshanperera.com)
 - 🏹 2021 Goals: Build Some Cool Stuff
 
